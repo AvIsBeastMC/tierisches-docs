@@ -46,7 +46,6 @@ Relevance to the problem statement, Relevance to latest trend and technologies i
 	- Technology and Engineering behind-the-scenes Part
 
 ### REGISTRATION/ENTRIES OF ANIMALS WITH THE HELP OF USERS
-The flow of registration of users is as follows:
 - The user will be required to login/signup through the authentication flow of the web application, which shall require a user to fill certain fields of information to prove their identity before any entries that they will be able to do.
 - User shall get their own QR code which shall help redirect users to their profile URL which shall show/display contributions done by the user to pages.
 - 
