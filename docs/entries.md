@@ -1,4 +1,4 @@
-# USER REGISTRATION & LEGITIMATE ANIMAL ENTRIES
+# User Registration & Legitimate Animal/Specie Entries
 ### Wiki Structure
 ```
 wiki
