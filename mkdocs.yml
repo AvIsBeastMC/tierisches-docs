@@ -1,5 +1,4 @@
-site_name: Tierisches
-
+site_name: Tierisches - The Animal Database
 theme:
     name: 'material'
     palette:
@@ -21,6 +20,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+nav:
+    - Introduction, Basic Planning & Project Structure: 'index.md'
 
 # Extensions
 markdown_extensions:

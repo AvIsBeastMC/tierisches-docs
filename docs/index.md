@@ -1,4 +1,4 @@
-# ANIMAL DATABASE - Tierisches
+# Introduction, Basic Planning & Project Structure
 Create a platform where we can register stray/wild animals with RFID/QR code and maintain online database. Assume that the animals are wearing the tags and create dummy QR codes representing RFID and show statistics of the database based on animals, geography and area. Additinoal features can be added to display density geographically, animals facing extintion, area specific animals/breeds etc.
 
 ### CRITERIONS
