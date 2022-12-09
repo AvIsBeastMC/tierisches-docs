@@ -2,15 +2,15 @@
 Create a platform where we can register stray/wild animals with RFID/QR code and maintain online database. Assume that the animals are wearing the tags and create dummy QR codes representing RFID and show statistics of the database based on animals, geography and area. Additinoal features can be added to display density geographically, animals facing extintion, area specific animals/breeds etc.
 
 ### Criterions
-**Creativity (20%):**  
+- Creativity (20%)  
 Originality of the idea, Effective use of technology and tools
-**Technical Quality (20%)**  
+- Technical Quality (20%)
 Correctness of syntax and code, Proper indentation and commenting, skill, Optimization
-**Functionality (20%):**  
+- Functionality (20%)
 Successful working, flowchart, Code efficiency, Clarity of Logic  
-**Uniqueness (20%):**  
+- Uniqueness (20%)
 Unique coding techniques, Uniqueness of solution
-**Relevance (20%):**  
+- Relevance (20%)
 Relevance to the problem statement, Relevance to latest trend and technologies in Coding
 
 ### Requirements
