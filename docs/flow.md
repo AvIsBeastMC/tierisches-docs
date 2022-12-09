@@ -32,3 +32,6 @@ wiki
 - On acceptance, the edits/additions will be made.
 - ⭐ All contributions (being checked and successful edits) will be visible on the page with the name of editor and editor pages will show contributions that are being checked and successful edits, **not declined ones**. 
 - On rejection of under-check publish draft, the publish will automatically be saved back to the user's draft vault, reason will also be stated for what was incorrect/inconsistent in the provided information and can be sent for review again.
+
+### QR Generation 
+- QR Generation shall only take place for pages and users & once generated, shall remain the same for particular pages.
