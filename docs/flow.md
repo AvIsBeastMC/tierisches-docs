@@ -16,8 +16,9 @@ wiki
 	📜 name
 	📜 email address (used to register)
 	📜 profile picture (optional, can be set from dashboard)
+	📜 date of birth (dd/mm/yyyy)
 	📜 line graph depicting contributions with days (data will be displayed something like this below)
-	📜 list of contributions made (in the form of edits and published drafts/history)
+	📜 list of contributions made (in the form of published and under-check edits)
 ```
 <img src="https://i.imgur.com/qCQzk2C.png"  />
 
@@ -27,6 +28,7 @@ wiki
 
 ### Animal/Species Entry for Registration
 - Before entrying, users can also draft their publish like you draft mails that aren't sent due to incomplete work/work to be done in continuation. 
-- On entry, an **Publish-Decline Model** has been chosen for the verification and sources for an entry to be published, this shall be applicable to potential contribution/edit that will be done to both General Information of an Animal (page) & addition/changes to Species List of an Animal.
+- On entry, an **Publish-Reject Model** has been chosen for the verification and sources for an entry to be published, this shall be applicable to potential contribution/edit that will be done to both General Information of an Animal (page) & addition/changes to Species List of an Animal.
 - On acceptance, the edits/additions will be made.
-- All contributions (being checked and successful edits) will be visible on the page with the name of editor and editor pages will show contributions that are being checked and successful edits, not declined ones. 
+- ⭐ All contributions (being checked and successful edits) will be visible on the page with the name of editor and editor pages will show contributions that are being checked and successful edits, **not declined ones**. 
+- On rejection of under-check publish draft, the publish will automatically be saved back to the user's draft vault, reason will also be stated for what was incorrect/inconsistent in the provided information and can be sent for review again.
