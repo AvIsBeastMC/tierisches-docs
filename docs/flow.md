@@ -34,4 +34,4 @@ wiki
 - On rejection of under-check publish draft, the publish will automatically be saved back to the user's draft vault, reason will also be stated for what was incorrect/inconsistent in the provided information and can be sent for review again.
 
 ### QR Generation 
-- QR Generation shall only take place for pages and users & once generated, shall remain the same for particular pages.
+- QR Generation shall only take place for pages and users & once generated, shall remain the same for particular pages. 
